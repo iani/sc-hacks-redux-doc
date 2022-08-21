@@ -154,7 +154,7 @@ foo := "bar";
 bar := "foo";
 ```
 
-Code can also use syntax highlighting.
+Code can also use syntax highlighting. (detail added)
 
 ```go
 func main() {
