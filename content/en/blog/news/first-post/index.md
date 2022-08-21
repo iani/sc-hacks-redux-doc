@@ -15,7 +15,9 @@ resources:
 
 Here we are just testing how to use the docsy theme for making the website with Hugo and deploying it on Netlify.
 
-## Including images
+## One more edit
+
+Here we test how edits update automatically on the local browser via the hugo server.
 
 Here's an image (`featured-sunset-get.png`) that includes a byline and a caption.
 
