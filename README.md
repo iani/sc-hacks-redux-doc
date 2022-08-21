@@ -1,3 +1,7 @@
+# Documentation for SC-Hacks-Redux
+
+This is documentation for the SuperCollider Library SC-Hacks-Redux. 
+
 # Docsy Example
 
 [Docsy][] is a [Hugo theme module][] for technical documentation sites, providing easy
